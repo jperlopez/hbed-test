@@ -1,0 +1,6 @@
+attemptManager:
+  attemptsPeriodInMinutes: 5
+  maxLoginAttempts: 5
+
+timecalculator:
+  rfc2822pattern: "EEE, dd MMM yyyy HH:mm:ss Z"
